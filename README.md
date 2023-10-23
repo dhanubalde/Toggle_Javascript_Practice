@@ -1,5 +1,8 @@
-# Html Css Javascript Master Toggle
-### Credits :  CodeSlinger
+# Html-5 Css Javascript Master
+-- Responsive Design
+-- Mobile Support
+-- Desktop Support 
+### " CodeSlinger : Dhanublde "
 
 This is for Educational Development to learn the basic's
 and fundamental of html,css,javascript
