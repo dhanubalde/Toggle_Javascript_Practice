@@ -20,4 +20,6 @@ git clone https://github.com/dhanubalde/toggle.git
 ```
 
 # Live: <a href="https://dhanubalde.github.io/toggle " style="text-decoration:none">Demo</a>
+<img src="./image/phone.png" alt=""/>
 <img src="./image/desktop.png" alt=""/>
+
