@@ -11,5 +11,5 @@ just copy down below!!
 git clone https://github.com/dhanubalde/toggle.git
 ```
 
-# Live: <a href="https://dhanubalde.github.io/toggle " style="text-decoration:none"><span style="color: hsl(352, 70%, 49%);">Demo</span></a>
+# Live: <a href="https://dhanubalde.github.io/toggle " style="text-decoration:none">Demo</a>
 <img src="./image/desktop.png" alt=""/>
