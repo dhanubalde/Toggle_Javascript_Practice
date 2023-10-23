@@ -8,7 +8,7 @@ if want to download my source project
 just copy down below!!
 
 ```shell
-git clone 
+git clone https://github.com/dhanubalde/toggle.git
 ```
 
 ScreenShots
