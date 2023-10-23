@@ -12,4 +12,4 @@ git clone https://github.com/dhanubalde/toggle.git
 ```
 
 ScreenShots
-<img src="./image/desktop" alt=""/>
+<img src="./image/desktop.png" alt=""/>
