@@ -1,5 +1,5 @@
 # Html Css Javascript Master Toggle
-### mobile view
+### Credits :  CodeSlinger
 
 this is for educational development to learn the basic's
 and fundamental of html,css,javascript
